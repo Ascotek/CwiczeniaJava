@@ -14,8 +14,8 @@ public class Testowanie {
 
         CircleEx kolo = new CircleEx(r);
 
-            System.out.println("Pole koła wynosi: " + kolo.getArea());
-            System.out.println("Obwod kola wynosi: " + kolo.getPerimeter());
+        System.out.println("Pole koła wynosi: " + kolo.getArea());
+        System.out.println("Obwod kola wynosi: " + kolo.getPerimeter());
 
         System.out.println("\n");
 
